@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* Dark theme styles */
+body {
+  font-family: sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Subscribe button styles */
+.subscribe-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+}
+=======
+
+body { font-family: sans-serif; }
+
+>>>>>>> eb3b1ec3bef032a7ef1c22f82be230270ae2e365
+=======
 body {
   font-family: sans-serif;
 }
@@ -12,3 +35,4 @@ body {
 .subscribe-button:hover {
   background-color: darkblue;
 }
+>>>>>>> origin/main
