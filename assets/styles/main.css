@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* Dark theme styles */
 body {
   font-family: sans-serif;
@@ -19,3 +20,19 @@ body {
 body { font-family: sans-serif; }
 
 >>>>>>> eb3b1ec3bef032a7ef1c22f82be230270ae2e365
+=======
+body {
+  font-family: sans-serif;
+}
+
+.subscribe-button {
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+.subscribe-button:hover {
+  background-color: darkblue;
+}
+>>>>>>> origin/main
