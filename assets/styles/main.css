@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Dark theme styles */
 body {
   font-family: sans-serif;
@@ -12,9 +13,21 @@ body {
   padding: 10px 20px;
   border: none;
   border-radius: 4px;
+=======
+body { font-family: sans-serif; }
+.subscribe-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+>>>>>>> b6f0e12 (Add Subscribe button styles)
   cursor: pointer;
 }
 
 .subscribe-button:hover {
+<<<<<<< HEAD
   background-color: #0056b3;
+=======
+  background-color: #45a049;
+>>>>>>> b6f0e12 (Add Subscribe button styles)
 }
