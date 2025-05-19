@@ -2,4 +2,8 @@
 build/
 
 temp.log
+<<<<<<< HEAD
 
+=======
+build/
+>>>>>>> e6033bf (Save local changes before pulling)
